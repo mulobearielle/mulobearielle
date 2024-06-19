@@ -85,7 +85,7 @@ int main() {
             case 17:
                 // Ajoutez le code correspondant
                 break;
-            case 18:
+            case 18
                 // Ajoutez le code correspondant
                 break;
             case 19:
